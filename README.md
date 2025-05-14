@@ -1,8 +1,9 @@
-## Hello, I'm GhifariAzhr 👋
-
 ![GhifariAzhr](https://l.top4top.io/p_3421lj0s40.png)
 
-#### Social
+## 👤 About Me
+Hello, I'm GhifariAzhr 👋
+
+#### 🌐 Social
 
 
 
@@ -14,7 +15,7 @@
 
 
 
-#### My Github Stats
+#### 📊 Github Stats
 
 [![GhifariAzhrr GitHub stats](https://github-readme-stats.vercel.app/api?username=GhifariAzhrr&show_icons=true&theme=radical)
 <!--
