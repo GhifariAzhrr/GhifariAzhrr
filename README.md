@@ -1,6 +1,6 @@
 ## Hello World!, I'm GhifariAzhr 👋
 
-![GhifariAzhr](header.png)
+![GhifariAzhr](https://l.top4top.io/p_3421lj0s40.png)
 
 <!--
 **GhifariAzhrr/GhifariAzhrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
