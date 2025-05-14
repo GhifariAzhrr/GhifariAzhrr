@@ -1,4 +1,4 @@
-## Hello World!, I'm GhifariAzhr 👋
+## Hello, I'm GhifariAzhr 👋
 
 ![GhifariAzhr](https://l.top4top.io/p_3421lj0s40.png)
 
