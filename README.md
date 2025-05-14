@@ -21,11 +21,7 @@ Hello, I'm GhifariAzhr 👋
 
 #### 🚀 Play games with me
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GhifariAzhrr/GhifariAzhrr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GhifariAzhrr/GhifariAzhrr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GhifariAzhrr/GhifariAzhrr/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/GhifariAzhrr/GhifariAzhrr/output/snake.svg" alt="Snake animation" />
 <!--
 **GhifariAzhrr/GhifariAzhrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
