@@ -1,7 +1,6 @@
 ![GhifariAzhr](https://l.top4top.io/p_3421lj0s40.png)
 
-## 👤 About Me
-Hello, I'm GhifariAzhr 👋
+## 👤 About Me Hello, I'm GhifariAzhr 👋
 
 #### 🌐 Social
 
