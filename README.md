@@ -4,9 +4,6 @@
 Hello, I'm GhifariAzhr 👋
 
 #### 🌐 Social
-
-
-
 ![https://instagram.com/ghifariazhrr_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 ![https://x.com/GhifariAzhrr](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
 
@@ -16,7 +13,6 @@ Hello, I'm GhifariAzhr 👋
 
 
 #### 📊 Github Stats
-
 [![GhifariAzhrr GitHub stats](https://github-readme-stats.vercel.app/api?username=GhifariAzhrr&show_icons=true&theme=radical)
 <!--
 **GhifariAzhrr/GhifariAzhrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
