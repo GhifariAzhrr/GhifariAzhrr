@@ -2,6 +2,8 @@
 
 ![GhifariAzhr](https://l.top4top.io/p_3421lj0s40.png)
 
+![https://instagram.com/ghifariazhrr_](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+
 <!--
 **GhifariAzhrr/GhifariAzhrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
