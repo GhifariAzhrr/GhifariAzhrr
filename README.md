@@ -7,7 +7,6 @@ Hello, I'm GhifariAzhr 👋
   <a href="https://youtube.com/@ghifariazhr" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-
 ![https://linktr.ee/ghipuk_](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)
 ![https://www.threads.net/@ghifariazhrr_](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)
 
