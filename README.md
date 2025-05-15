@@ -10,6 +10,7 @@
 
 ![https://linktr.ee/ghipuk_](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white) ![https://www.threads.net/@ghifariazhrr_](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white) ![https://ghifariazhrr.github.io/Personal-Web/](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
 
+[![]([https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white))]([https://github.com/sponsors/ghifariazhrr](https://instagram.com/ghifariazhrr_))
 
 
 #### 📊 Github Stats
